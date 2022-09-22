@@ -1,6 +1,14 @@
-# responsive-Hospital-Website-TANDEMLOOP
-![Alt text](relative/path/to/doctor.jpg?raw=true "Wesite Overview")
-Most of pictures used in this website is from <h3>unsplash</h3> which is an open source platform to use images in a project - https://unsplash.com/s/photos/doctor.
+# responsive-Hospital-Website-TANDEMLOOP-Assignmet
 
-In Qualified Healthcare Professionals provdide specialist are real doctors working in <h3>Medanta</h3> - https://www.medanta.org/browser-institute/.
+## Here is the firstlook of a site -
+![Alt text](https://raw.githubusercontent.com/anuragsingh6886/responsive-Hospital-Website-TANDEMLOOP/main/doctor.jpg)
+
+## Pictures
+Most of pictures used in this website is from unsplash which is an open source platform to use images in a project - https://unsplash.com/s/photos/doctor.
+
+## Doctors
+In Qualified Healthcare Professionals provdide specialist are real doctors working in Medanta - https://www.medanta.org/browser-institute/.
 pictures and texts are also from the website.
+
+## Text And Contens
+Most of the text and contets are taken from several helathcare websites, journel, articles and Research papers.
