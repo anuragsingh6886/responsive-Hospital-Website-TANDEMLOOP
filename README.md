@@ -1,6 +1,6 @@
 # responsive-Hospital-Website-TANDEMLOOP-Assignmet
 
-#### Here is my solution to the problem given by TANDEMLOOP as a screening assignment for Web Designer role. I modified only landing page of the website due to insufficent time but you can evaluate accordingly.
+#### Here is my solution to the problem given by TANDEMLOOP as a screening assignment for Web Designer role. I modified only landing page of the website due to insufficient time but you can evaluate accordingly.
 
 ## Screenshot of a final outlook -
 ![Alt text](https://raw.githubusercontent.com/anuragsingh6886/responsive-Hospital-Website-TANDEMLOOP/main/doctor.jpg)
